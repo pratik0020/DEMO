@@ -12,6 +12,8 @@ class Myclass
 
 	p s v m (String args[])
 	{
-	
+	cfklanfklaca
+ajkabncjkaca\acajcbnalk\nlkacn
+knakca;
 	}
 }
