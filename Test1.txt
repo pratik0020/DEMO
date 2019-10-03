@@ -1,1 +1,12 @@
 hello good morning everyone !!!!!!!
+
+
+class Myclass
+{
+	private String name;
+
+	public void getName()
+	{
+		
+	}
+}
