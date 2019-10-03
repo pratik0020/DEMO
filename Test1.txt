@@ -9,4 +9,9 @@ class Myclass
 	{
 		
 	}
+
+	p s v m (String args[])
+	{
+	
+	}
 }
