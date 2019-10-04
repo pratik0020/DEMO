@@ -12,12 +12,15 @@ class Myclass
 
 public void getName2()
 	{
-		sysysysysysysysyooooo
+
+		syso
 	}
 	
 	public void getName3()
 	{
-		me pan  !!!!
+
+		hello there
+
 	}
 
 	p s v m (String args[])
