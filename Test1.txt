@@ -14,6 +14,11 @@ public void getName2()
 	{
 		tula kay karaycha aahe !!!! pal nahi sangat
 	}
+	
+	public void getName3()
+	{
+		me pan  !!!! pal nahi sangat
+	}
 
 	p s v m (String args[])
 	{
