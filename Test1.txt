@@ -12,12 +12,12 @@ class Myclass
 
 public void getName2()
 	{
-		tula kay karaycha aahe !!!! pal nahi sangat
+		sysysysysysysysyooooo
 	}
 	
 	public void getName3()
 	{
-		me pan  !!!! pal nahi sangat
+		me pan  !!!!
 	}
 
 	p s v m (String args[])
